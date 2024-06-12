@@ -1,0 +1,7 @@
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\bin\Debug\Lr_1.exe.config
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\bin\Debug\Lr_1.exe
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\bin\Debug\Lr_1.pdb
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\obj\Debug\Lr_1.csproj.AssemblyReference.cache
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\obj\Debug\Lr_1.csproj.CoreCompileInputs.cache
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\obj\Debug\Lr_1.exe
+D:\POP\POP_lr1\C#_lr1\Lr_1\Lr_1\obj\Debug\Lr_1.pdb
